@@ -2,3 +2,5 @@ Test case and execution report:https://docs.google.com/spreadsheets/d/1sRaio4hGa
 Bug report:https://docs.google.com/spreadsheets/d/1NA-l8yhn5kNm2jIl_t37VhVsxUiYMTNsE4s3vvQZ3QE/edit?gid=0#gid=0
 
 Test summary report:https://docs.google.com/document/d/1gVgO6fPKDwWPkrK0KxZTKfzPOrd9IxlYCQABGoOAgDk/edit?tab=t.0
+
+RTM:https://docs.google.com/spreadsheets/d/1HbZJkCdp3lzebspYW2cqORlZfURKZvT5WPGzb1DvVr8/edit?gid=0#gid=0
